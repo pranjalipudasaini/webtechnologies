@@ -1,0 +1,35 @@
+*{
+    margin: 7;
+    padding: 5;
+    font-family: 'Questrial', sans-serif;
+}
+h1{
+    background-color: rgb(215, 124, 91);
+    font-size:xx-large;
+    color:rgb(56, 9, 2);
+}
+h2{
+    background-color: rgb(220, 201, 104);
+    font-size:x-large;
+    color:rgb(15, 69, 15);
+}
+h3{
+    background-color: rgb(124, 171, 83);
+    font-size:larger;
+    color:rgb(16, 25, 74);
+}
+h4{
+    background-color: rgb(72, 203, 164);
+    font-size:large;
+    color:rgb(85, 12, 104);
+}
+h5{
+    background-color: rgb(95, 181, 218);
+    font-size:medium;
+    color:rgb(204, 21, 64);
+}
+h6{
+    background-color: rgb(181, 87, 101);
+    font-size:small;
+    color:rgb(193, 46, 46);
+}
